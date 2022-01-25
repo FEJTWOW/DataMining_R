@@ -1,2 +1,2 @@
 # DataMining_R
-Data mining R 
+Some random data analysis created for academic purpouse 
